@@ -1,0 +1,20 @@
+{
+  "name": "hotline",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.1"
+  },
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.1"
+  },
+  "description": ""
+}

@@ -1,0 +1,1 @@
+function hello(o){o=o||"node",console.log("hello "+o)}var arg=process.argv[2]||void 0;hello(arg);
